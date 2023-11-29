@@ -1,6 +1,6 @@
 Olá! Eu sou o Renato Mariano
 
-- 🌱 Atualmente sou um estudante autodidata de engenharia de dados
+- 🌱 Atualmente faço ADS (Analise e Desenvolvimento de Sistemas) e sou um estudante autodidata de engenharia de dados
 - 👍 Atualmente tenho conhecimentos
     - Linguagem de Programação: python
     - Banco de Dados Relacional: MySQL, PostgreSQL
