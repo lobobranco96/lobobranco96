@@ -2,7 +2,7 @@ Olá! Eu sou o Renato Mariano
 
 - 🌱 Atualmente faço ADS (Analise e Desenvolvimento de Sistemas) e sou um estudante autodidata de engenharia de dados
 - 👍 Atualmente tenho conhecimentos
-    - Linguagem de Programação: python
+    - Linguagem de Programação: Python, SQL
     - Banco de Dados Relacional: MySQL, PostgreSQL
     - Cloud: Azure
 - 📫 Contata-me no email: rntt2511@gmail.com
