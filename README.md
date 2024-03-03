@@ -5,7 +5,10 @@ Olá! Eu sou o Renato Mariano
     - Linguagem de Programação: Python, SQL
     - Banco de Dados Relacional: MySQL, PostgreSQL
     - Cloud: Microsoft Azure e AWS
-    - 📫 Contata-me no email: rntt2511@gmail.com
+    - Ferramentas: Airflow
+- Aprendendo no momento: Linux, Scala, MongoDb
+- 📫 Contata-me no email: rntt2511@gmail.com
+      
 
 ##
 
