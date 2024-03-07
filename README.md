@@ -6,7 +6,7 @@ Olá! Eu sou o Renato Mariano
     - Banco de Dados Relacional: MySQL, PostgreSQL
     - Cloud: Microsoft Azure e AWS (S3, Glue, Athena, EC2, RDS)
     - Ferramentas: Airflow
-- Aprendendo no momento: Linux, Scala, MongoDb
+- Aprendendo no momento: Linux, Terraform
 - 📫 Contata-me no email: rntt2511@gmail.com
       
 
