@@ -4,9 +4,9 @@ Olá! Eu sou o Renato Mariano
 - 👍 Atualmente tenho conhecimentos
     - Linguagem: Python, SQL
     - Banco de Dados Relacional: MySQL, PostgreSQL
-    - Cloud: Microsoft Azure e AWS (S3, Glue, Athena, EC2, RDS)
-    - Ferramentas: Airflow
-- Aprendendo no momento: Linux, Terraform e Spark(pyspark)
+    - Cloud: AWS (S3, Glue, Athena, EC2, RDS)
+    - Ferramentas: Airflow, Terraform
+- Aprendendo no momento: Linux, Spark(pyspark), DBT
 - 📫 Contata-me no email: rntt2511@gmail.com
       
 
