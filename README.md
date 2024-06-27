@@ -1,11 +1,12 @@
 Olá! Eu sou o Renato Mariano
 
 - 🌱 Atualmente faço ADS (Analise e Desenvolvimento de Sistemas) e meu foco é atuar na area de dados como Engenheiro de Dados. 
-- 👍 Atualmente tenho conhecimentos
+- 👍 Familiar com:
     - Linguagem: Python, SQL
     - Banco de Dados Relacional: MySQL, PostgreSQL
     - Cloud: AWS (S3, Glue, Athena, EC2, RDS)
     - Ferramentas: Airflow, Terraform
+    - Web scraping
 - Aprendendo no momento: Linux, Spark(pyspark), DBT
 - 📫 Contata-me no email: rntt2511@gmail.com
       
