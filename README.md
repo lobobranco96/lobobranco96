@@ -36,12 +36,19 @@ Olá! Eu sou o Renato Mariano
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Renato-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img  align="center" alt="Renato-azure" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
    <img  align="center" alt="Renato-airflow" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-          
-          
+   <img  align="center" alt="Renato-spark" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+    <img  align="center" alt="Renato-docker" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+     <img  align="center" alt="Renato-flask" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+      <img  align="center" alt="Renato-sqlserver" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+      <img  align="center" alt="Renato-terraform" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+    
 </div>
   
 ##
