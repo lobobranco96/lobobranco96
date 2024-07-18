@@ -6,8 +6,8 @@ Olá! Eu sou o Renato Mariano
     - Banco de Dados Relacional: MySQL, PostgreSQL, SQL Server
     - Data Warehouse: Snowflake
     - Cloud: AWS (S3, Glue, Athena, EC2, RDS)
-    - Airflow, Docker, SSIS, Spark
-    - Web scraping, Linux(ubunto), Terraform
+    - Airflow, Docker, SSIS, Pyspark
+    - Web scraping, Linux, Terraform
 - Aprendendo no momento: DBT 
 - 📫 Contata-me no email: rntt2511@gmail.com
       
