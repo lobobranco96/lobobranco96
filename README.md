@@ -5,10 +5,10 @@ Olá! Eu sou o Renato Mariano
     - Linguagem: Python, SQL
     - Banco de Dados Relacional: MySQL, PostgreSQL, SQL Server
     - Data Warehouse: Snowflake
-    - Cloud: AWS (S3, Glue, Athena, EC2, RDS)
+    - Cloud: AWS (S3, Glue, Athena, RDS)
     - Airflow, Docker, SSIS, Pyspark
-    - Web scraping, Linux, Terraform
-- Aprendendo no momento: DBT 
+    - Web scraping, Terraform
+    - DBT 
 - 📫 Contata-me no email: rntt2511@gmail.com
       
 
