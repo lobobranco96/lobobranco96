@@ -4,9 +4,9 @@ Atualmente, estou focado em adquirir experiência prática nas ferramentas e tec
 
 Ferramentas que utilizo em meus projetos pessoais:
       - Python, Pyspark, Web scraping
-      - MySQL, PostgreSQL, SQL Server, Snowflake, SSIS
+      - MySQL, PostgreSQL, SQL Server
       - AWS
-      - Airflow, Docker, Terraform, DBT
+      - Airflow, Docker, Terraform, DBT, Databricks, Snowflake, SSIS
   
 📫 Contata-me no email: rntt2511@gmail.com
       
