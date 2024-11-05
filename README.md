@@ -1,14 +1,10 @@
 Olá! Eu sou o Renato Mariano
 
-- 🌱 Atualmente estou no ultimo período de ADS (Analise e Desenvolvimento de Sistemas) e estou estudando para entrar na área de dados como Engenheiro de Dados.
-- Python, SQL
-- Banco de Dados Relacional: MySQL, PostgreSQL, SQL Server
-- Data Warehouse: Snowflake
-- Cloud: AWS
-- Airflow, Docker, SSIS, Pyspark
-- Web scraping, Terraform, DBT
-
-- 📫 Contata-me no email: rntt2511@gmail.com
+- Graduando em Analise e Desenvolvimento de Sistemas e estudante de Engenheiro de Dados.
+- Ferramentas que atualmente utilizo em meus projetos pessoais para adquirir experiencia e aprendizado:
+      - Python, MySQL, PostgreSQL, SQL Server, Snowflake, AWS, Airflow, Docker, SSIS, Pyspark, Web scraping, Terraform, DBT
+  
+📫 Contata-me no email: rntt2511@gmail.com
       
 
 ##
