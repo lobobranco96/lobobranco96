@@ -1,8 +1,12 @@
 Olá! Eu sou o Renato Mariano
 
-- Graduando em Analise e Desenvolvimento de Sistemas e estudante de Engenheiro de Dados.
-- Ferramentas que atualmente utilizo em meus projetos pessoais para adquirir experiencia e aprendizado:
-      - Python, MySQL, PostgreSQL, SQL Server, Snowflake, AWS, Airflow, Docker, SSIS, Pyspark, Web scraping, Terraform, DBT
+Atualmente, estou focado em adquirir experiência prática nas ferramentas e tecnologias que utilizo para resolver problemas reais e desenvolver soluções escaláveis. Ferramentas que utilizo nos meus projetos pessoais para aprimorar minhas habilidades técnicas e expandir meu conhecimento em diversas áreas de desenvolvimento.
+
+Ferramentas que utilizo em meus projetos pessoais:
+      - Python, Pyspark, Web scraping
+      - MySQL, PostgreSQL, SQL Server, Snowflake, SSIS
+      - AWS
+      - Airflow, Docker, Terraform, DBT
   
 📫 Contata-me no email: rntt2511@gmail.com
       
