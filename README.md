@@ -6,7 +6,8 @@ Atualmente, estou focado em adquirir experiência prática nas ferramentas e tec
 - **MySQL**, **PostgreSQL**, **SQL Server**
 - **Cloud(AWS)**
 - **Apache Airflow**, **Docker**, **IAC(Terraform)**, **DBT**, **Databricks**, **Snowflake**
-  
+- **ETL/ELT** 
+
 📫 Contata-me no email: rntt2511@gmail.com
       
 
