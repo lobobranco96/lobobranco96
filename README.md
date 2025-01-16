@@ -4,7 +4,7 @@ Atualmente, estou focado em adquirir experiência prática nas ferramentas e tec
 
 - **Python**, **Pyspark**
 - **MySQL**, **PostgreSQL**, **SQL Server**
-- **Cloud(AWS)**
+- **Cloud(AWS, GCP)**
 - **Apache Airflow**, **Docker**, **IAC(Terraform)**, **DBT**, **Databricks**, **Snowflake**
 - **ETL/ELT** 
 
