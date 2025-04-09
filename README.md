@@ -2,10 +2,10 @@ Olá! Eu sou o Renato Mariano
 
 Atualmente, estou focado em adquirir experiência prática nas ferramentas e tecnologias que utilizo para resolver problemas reais e desenvolver soluções escaláveis. Ferramentas que utilizo nos meus projetos pessoais para aprimorar minhas habilidades técnicas e expandir meu conhecimento em diversas áreas de desenvolvimento.
 
-- **Python**, **Pyspark**
+- **Python**, **Pyspark**, **Web Scraping**
 - **MySQL**, **PostgreSQL**, **SQL Server**
 - **Cloud(AWS, GCP)**
-- **Apache Airflow**, **Docker**, **IAC(Terraform)**, **DBT**, **Databricks**, **Snowflake**
+- **Airflow**, **DBT**, **Databricks**, **Snowflake**
 - **ETL/ELT** 
 
 📫 Contata-me no email: rntt2511@gmail.com
