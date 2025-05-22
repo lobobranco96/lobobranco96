@@ -1,13 +1,35 @@
 Olá! Eu sou o Renato Mariano
 
-Engenheiro de Dados com foco em construção de pipelines escaláveis e arquiteturas modernas como Lakehouse. Experiência sólida com Python, PySpark, SQL e ferramentas de orquestração e transformação de dados.
+Engenheiro de Dados apaixonado por transformar dados em soluções inteligentes.  
+Foco em construção de pipelines escaláveis e arquiteturas modernas.
 
-Minha stack de ferramentas:
-- **Python** | **SQL** 
-- **MySQL** | **PostgreSQL** | **SQL Server**
-- **Cloud(AWS, GCP)**
-- **Airflow** | **DBT** | **Databricks** | **Spark**
-- **ETL/ELT** | **Web Scraping** | **Data Modeling**
+Sou formado em Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos que envolvem ingestão, processamento e análise de dados em ambientes distribuídos.  
+Busco sempre evoluir tecnicamente, colaborando com soluções orientadas a dados de forma ética e eficiente.
+
+## Tecnologias & Ferramentas
+
+**Linguagens e Processamento de Dados**  
+`Python` • `PySpark` • `Spark SQL` • `SQL`
+
+**Bancos de Dados**  
+`PostgreSQL` • `MySQL` • `SQL Server`
+
+**Cloud & Infraestrutura**  
+`Google Cloud (BigQuery, Cloud Storage, Cloud Composer)`  
+`AWS (básico)`  
+`Docker` • `Terraform`
+
+**Pipelines & Orquestração**  
+`Apache Airflow` • `DBT` • `Airbyte`  
+`CI/CD` • `Git` • `Gitflow`
+
+**Armazenamento & Arquiteturas**  
+`Data Lake` • `Data Warehouse` • `Lakehouse (Delta, Iceberg)`  
+`MinIO` • `Dremio` • `Databricks`
+
+**Outros conhecimentos**  
+`Web Scraping` • `Flask` • `Modelagem de Dados` • `Power BI`
+
 
 📫 Contata-me no email: rntt2511@gmail.com
       
