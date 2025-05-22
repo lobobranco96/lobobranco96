@@ -1,7 +1,8 @@
 Olá! Eu sou o Renato Mariano
 
-Atualmente, estou focado em adquirir experiência prática nas ferramentas e tecnologias que utilizo para resolver problemas reais e desenvolver soluções escaláveis. Ferramentas que utilizo nos meus projetos pessoais para aprimorar minhas habilidades técnicas e expandir meu conhecimento em diversas áreas de desenvolvimento.
+Engenheiro de Dados com foco em construção de pipelines escaláveis e arquiteturas modernas como Lakehouse. Experiência sólida com Python, PySpark, SQL e ferramentas de orquestração e transformação de dados.
 
+Minha stack de ferramentas:
 - **Python** | **SQL** 
 - **MySQL** | **PostgreSQL** | **SQL Server**
 - **Cloud(AWS, GCP)**
