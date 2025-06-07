@@ -15,7 +15,7 @@ Busco sempre evoluir tecnicamente, colaborando com soluções orientadas a dados
 `PostgreSQL` • `MySQL` • `SQL Server`
 
 **Cloud & Infraestrutura**  
-`Google Cloud (BigQuery, Cloud Storage, Cloud Composer)`  
+`Google Cloud (BigQuery, Cloud Storage, Cloud Composer, DataProc)`  
 `AWS (básico)`  
 `Docker` • `Terraform`
 
