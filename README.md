@@ -9,7 +9,7 @@ Busco sempre evoluir tecnicamente, colaborando com soluções orientadas a dados
 ## Tecnologias & Ferramentas
 
 **Linguagens e Processamento de Dados**  
-`Python` • `PySpark` • `Spark SQL` • `SQL`
+`Python` • `PySpark` • `SQL`
 
 **Bancos de Dados**  
 `PostgreSQL` • `MySQL` • `SQL Server`
@@ -21,11 +21,11 @@ Busco sempre evoluir tecnicamente, colaborando com soluções orientadas a dados
 
 **Pipelines & Orquestração**  
 `Apache Airflow` • `DBT` • `Airbyte`  
-`CI/CD` • `Git` • `Gitflow`
+`CI/CD` • `Git`
 
 **Armazenamento & Arquiteturas**  
 `Data Lake` • `Data Warehouse` • `Lakehouse (Delta, Iceberg)`  
-`MinIO` • `Dremio` • `Databricks`
+`Databricks`
 
 **Outros conhecimentos**  
 `Web Scraping` • `Flask` • `Modelagem de Dados` • `Power BI`
