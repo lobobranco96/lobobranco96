@@ -20,15 +20,14 @@ Busco sempre evoluir tecnicamente, colaborando com soluções orientadas a dados
 `Docker` • `Terraform`
 
 **Pipelines & Orquestração**  
-`Apache Airflow` • `DBT` • `Airbyte`  
-`CI/CD` • `Git`
+`Apache Airflow` • `DBT`
 
 **Armazenamento & Arquiteturas**  
 `Data Lake` • `Data Warehouse` • `Lakehouse (Delta, Iceberg)`  
 `Databricks`
 
 **Outros conhecimentos**  
-`Web Scraping` • `Flask` • `Modelagem de Dados` • `Power BI`
+`Web Scraping` • `Flask` • `Modelagem de Dados`
 
 
 📫 Contata-me no email: rntt2511@gmail.com
